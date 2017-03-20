@@ -1,34 +1,36 @@
 # resume
 
 # Tor Nelson
-tor.nelson@gmail.com :: (425) 686 - 8842 
+tor.nelson@gmail.com :: (425) 686 – 8842 :: 2842 NE 180th Pl., Lake Forest Park, WA 98155
+## Summary
+For the last several years, I've taken advantage of the growth in online education to acquire a range of skills relevant to technical product development, as well as refine a personal development practice applicable to executive coaching and organizational development. I'm looking to join an organization with an inspiring mission where my talents can make valuable contributions to their products, processes, and culture.
 ## Skills
 ### Project Management
-* Invented a biomedical device of novel material composition, characterized the material composition for patent application, and lead the development of a manufacturing process. 
+* Invented a biomedical device, characterized the material composition for patent application, and lead the development of a manufacturing process. 
 * Participated in the planning and execution of events with up to 2000 attendees, including logistics, risk management, and recruiting for teams. 
 * Management experience with small groups in diverse contexts, including managing both employees and volunteers. 
-* Extensive study of business development and project management practices with an emphasis on entrepreneurial and intrapreneurial activities, including Design Thinking, Agile and Lean Start-Up approaches.
-* Thorough knowledge of productivity strategies and personal development practices, with some informal coaching experience.
-* Skilled analytic and decision making abilities facilitated by processes to guide thinking, mental models from many disciplines, and strategies for mitigating the effects of cognitive bias.
+* Extensive study of business development and project management practices, including Design Thinking, Agile and Lean Startup approaches.
+* Thorough knowledge of productivity strategies and personal development practices.
+* Skilled analytic and decision making abilities facilitated by processes to guide thinking, mental models, and strategies for mitigating the effects of cognitive bias.
 ### Data Science
-* Experience designing and conducting scientific experiments as part of a research and development program. 
-* Proficient using R to process data, perform exploratory data analysis, and build descriptive or predictive statistical models employing a variety of techniques (linear regression, logistic regression, classification and regression trees, clustering, etc.) 
+* Experience designing and conducting scientific experiments. 
+* Proficient using R to process data, perform exploratory data analysis, and build statistical models employing a variety of techniques (linear regression, logistic regression, classification and regression trees, clustering, etc.) 
 * Mathematical background in statistics, probability, game theory, graphical models, linear algebra, and calculus.
 ### Programming
 * Experience working with Python, Ruby, Javascript, R, Racket, and other languages. Also familiar with HTML, CSS, SQL, and git. 
 * Studied algorithms, data structures, computer architecture, and automata theory. Familiar with object oriented and functional programming styles. 
 * Partial to methodical approaches to programming, such as in Test Driven Development and Systematic Program Design. Appreciative of clean code and tidy data.
 ### Design
-* Familiar with common user experience design practices.
+* Familiar with user experience design practices.
 * Able to devise solutions informed by behavioral economics, cognitive psychology, and gamification strategies.
-* Regularly produced digital and printed visual media for promotional purposes.
-* Refined a personal knowledge management system, including mapping curated content on many specialized subjects to an evolving information architecture. The collections have drawn over 100,000 views to date. http://www.pearltrees.com/tor.nelson
+* Produced digital and printed visual media for promotional purposes.
+* Refined a personal knowledge management system, including curating content into an evolving information architecture. The collections have drawn over 100,000 views to date. http://www.pearltrees.com/tor.nelson
 ### Communication
 * Experience with customer service, sales and negotiation. Familiar with negotiation strategy and contract law. 
-* Provided product support for numerous highly technical products to customers with varying levels of skill.
+* Provided product support for numerous highly technical products.
 * Produced technical reports detailing scientific research. Documented standard operating procedures developed in the course of conducting original research. 
 * Study of languaging (including subjects like logic, rhetoric, poetry, and storytelling) facilitates varying communication style to suit a context or objective. 
-* Experience mediating disputes and employing non-violent communication to manage interpersonal conflict. 
+* Experience mediating disputes employing non-violent communication.
 * Interviewed hundreds of people for cultural fit in the context of a shared living situation. Uncommon experience shaping and adapting to cultural dynamics.
 ## Work History
 Property Manager, Self-Employed — 3 / 2005 - 5 / 2016
