@@ -44,9 +44,7 @@ Research Associate, Vanson, Inc. — 3 / 1999 - 7 / 2001
 
 ## Education
 Bachelor of Science, Molecular Biology and Biochemistry
-
 The Evergreen State College, 1998
 
 Computer Science, Mathematics, Data Science, Design, Business
-
 Online Education through Coursera, Ed-X, Udacity, and other sources, 2012 - Present
