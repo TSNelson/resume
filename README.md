@@ -1,9 +1,9 @@
 ## Skills
 ### Project Management
 * Invented a biomedical device, characterized the material composition for patent application, and lead the development of a manufacturing process. 
-* Participated in the planning and execution of events with up to 2000 attendees, including logistics, risk management, and recruiting for teams. 
-* Management experience with small groups in diverse contexts, including managing both employees and volunteers. 
-* Extensive study of business development and project management practices, including Design Thinking, Agile and Lean Startup approaches.
+* Participated in the planning and execution of events with up to 2000 attendees, including logistics, risk management, and recruiting for teams.  
+* Extensive study of business development and project management practices, including Design Thinking, Lean, and Agile approaches.
+* Management experience with small groups in diverse contexts.
 * Thorough knowledge of productivity strategies and personal development practices.
 * Skilled analytic and decision making abilities facilitated by processes to guide thinking, mental models, and strategies for mitigating the effects of cognitive bias.
 
