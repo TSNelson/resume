@@ -31,6 +31,7 @@
 * Experience mediating disputes employing non-violent communication.
 * Interviewed hundreds of people for cultural fit in the context of a shared living situation. Uncommon experience shaping and adapting to cultural dynamics.
 
+* * *
 ## Work History
 Property Manager, Self-Employed — 3 / 2005 - 5 / 2016
 
@@ -42,6 +43,7 @@ Department Manager, Guitar Center, Inc. — 11 / 2002 - 5 / 2005
 
 Research Associate, Vanson, Inc. — 3 / 1999 - 7 / 2001
 
+* * *
 ## Education
 Bachelor of Science, Molecular Biology and Biochemistry  
 The Evergreen State College, 1998
