@@ -33,14 +33,20 @@
 
 ## Work History
 Property Manager, Self-Employed — 3 / 2005 - 5 / 2016
+
 Analog Vending, Owner and Operator — 10 / 2006 - 9 / 2010
+
 Professional Audio Technician, Self-Employed — 11 / 2004 - 9 / 2008
+
 Department Manager, Guitar Center, Inc. — 11 / 2002 - 5 / 2005
+
 Research Associate, Vanson, Inc. — 3 / 1999 - 7 / 2001
 
 ## Education
 Bachelor of Science, Molecular Biology and Biochemistry
+
 The Evergreen State College, 1998
 
 Computer Science, Mathematics, Data Science, Design, Business
+
 Online Education through Coursera, Ed-X, Udacity, and other sources, 2012 - Present
