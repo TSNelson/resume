@@ -21,7 +21,7 @@
 * Familiar with user experience design practices.
 * Able to devise solutions informed by behavioral economics, cognitive psychology, and gamification strategies.
 * Produced digital and printed visual media for promotional purposes.
-* Refined a personal knowledge management system, including curating content into an evolving information architecture. The collections have drawn over 100,000 views to date. [http://www.pearltrees.com/tor.nelson]
+* Refined a personal knowledge management system, including curating content into an evolving information architecture. The collections have drawn over 100,000 views to date. [http://www.pearltrees.com/tor.nelson](http://www.pearltrees.com/tor.nelson "links to collections pearltrees")
 
 ### Communication
 * Experience with customer service, sales and negotiation. Familiar with negotiation strategy and contract law. 
