@@ -21,7 +21,7 @@
 * Familiar with user experience design practices.
 * Able to devise solutions informed by behavioral economics, cognitive psychology, and gamification strategies.
 * Produced digital and printed visual media for promotional purposes.
-* Refined a personal knowledge management system, including curating content into an evolving information architecture. The collections have drawn over 100,000 views to date. http://www.pearltrees.com/tor.nelson
+* Refined a personal knowledge management system, including curating content into an evolving information architecture. The collections have drawn over 100,000 views to date. (http://www.pearltrees.com/tor.nelson "link to collections on pearltrees")
 
 ### Communication
 * Experience with customer service, sales and negotiation. Familiar with negotiation strategy and contract law. 
@@ -43,8 +43,8 @@ Department Manager, Guitar Center, Inc. — 11 / 2002 - 5 / 2005
 Research Associate, Vanson, Inc. — 3 / 1999 - 7 / 2001
 
 ## Education
-Bachelor of Science, Molecular Biology and Biochemistry
+Bachelor of Science, Molecular Biology and Biochemistry  
 The Evergreen State College, 1998
 
-Computer Science, Mathematics, Data Science, Design, Business
+Computer Science, Mathematics, Data Science, Design, Business  
 Online Education through Coursera, Ed-X, Udacity, and other sources, 2012 - Present
