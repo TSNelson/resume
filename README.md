@@ -8,19 +8,16 @@ Built and operated internal automation platforms and reliability tooling support
 ### Key Accomplishments:
 
 #### Automation & Internal Tooling
-
 - Architected and maintained an internal PowerShell automation library of reusable components, standardizing operations and reducing manual intervention.
 - Designed composable function frameworks for Exchange Online and Microsoft 365 administration, replacing point-and-click workflows with version-controlled automation.
 - Built automated ticket-generation and workflow orchestration systems integrating monitoring data with service management pipelines, improving operational throughput and predictability.
 
 #### Reliability, Monitoring & Self-Healing Systems
-
 - Designed automated monitoring and remediation pipelines to detect system instability and trigger corrective workflows, reducing unplanned downtime and frontline support escalations.
 - Implemented self-healing automation for system file corruption detection and repair, improving system stability and decreasing recurring incident volume.
 - Developed failure-detection pipelines attaching structured diagnostic data to incident tickets, accelerating root-cause analysis and resolution.
 
 #### Production Operations & Control Systems
-
 - Built automation to enforce operational contracts around backup reliability, improving success rates by \(20\%\) through detection, validation, and automated recovery workflows.
 - Designed repeatable control processes for cybersecurity audits and system health checks, formalizing operations with automation, internal tooling, and documentation.
 
@@ -41,10 +38,10 @@ Designed and built an AI literacy and prompt optimization platform that helps us
 
 #### Programming:
 
-- **Languages:** JavaScript, Python, PowerShell
-- **Frameworks & Stacks:** Node.js, Express, React, MongoDB (MERN)
-- **Automation & Scripting:** PowerShell, Python, Bash
-- **Testing & Quality:** Automated Testing, AI-Assisted Test Generation, Systematic Program Design
+- Languages: JavaScript, Python, PowerShell
+- Frameworks & Stacks: Node.js, Express, React, MongoDB (MERN)
+- Automation & Scripting: PowerShell, Python, Bash
+- Testing & Quality: Automated Testing, AI-Assisted Test Generation, Systematic Program Design
 
 #### Production Systems & Automation:
 
