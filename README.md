@@ -9,21 +9,31 @@ Built and operated internal automation platforms and reliability tooling support
 
 #### Automation & Internal Tooling
 
-Architected and maintained an internal PowerShell automation library of reusable components, standardizing operations and reducing manual intervention. Designed composable function frameworks for Exchange Online and Microsoft 365 administration, replacing point-and-click workflows with version-controlled automation. Built automated ticket-generation and workflow orchestration systems integrating monitoring data with service management pipelines, improving operational throughput and predictability.
+- Architected and maintained an internal PowerShell automation library of reusable components, standardizing operations and reducing manual intervention.
+- Designed composable function frameworks for Exchange Online and Microsoft 365 administration, replacing point-and-click workflows with version-controlled automation.
+- Built automated ticket-generation and workflow orchestration systems integrating monitoring data with service management pipelines, improving operational throughput and predictability.
 
 #### Reliability, Monitoring & Self-Healing Systems
 
-Designed automated monitoring and remediation pipelines to detect system instability and trigger corrective workflows, reducing unplanned downtime and frontline support escalations. Implemented self-healing automation for system file corruption detection and repair, improving system stability and decreasing recurring incident volume. Developed failure-detection pipelines attaching structured diagnostic data to incident tickets, accelerating root-cause analysis and resolution.
+- Designed automated monitoring and remediation pipelines to detect system instability and trigger corrective workflows, reducing unplanned downtime and frontline support escalations.
+- Implemented self-healing automation for system file corruption detection and repair, improving system stability and decreasing recurring incident volume.
+- Developed failure-detection pipelines attaching structured diagnostic data to incident tickets, accelerating root-cause analysis and resolution.
 
 #### Production Operations & Control Systems
 
-Built automation to enforce operational contracts around backup reliability, improving success rates by \(20\%\) through detection, validation, and automated recovery workflows. Designed repeatable control processes for cybersecurity audits and system health checks, formalizing operations with automation, internal tooling, and documentation.
+- Built automation to enforce operational contracts around backup reliability, improving success rates by \(20\%\) through detection, validation, and automated recovery workflows.
+- Designed repeatable control processes for cybersecurity audits and system health checks, formalizing operations with automation, internal tooling, and documentation.
 
 **AI Literacy & Prompt Optimization Platform - Founder & Product Engineer** | 2025- Present
 
 Designed and built an AI literacy and prompt optimization platform that helps users systematically improve the quality, reliability, and usefulness of AI outputs using composable optimization strategies.
 
-Architected and implemented a full-stack web application using MongoDB, Express, React, and Node.js. Designed a modular prompt optimization engine encoding proven communication and reasoning patterns with a focus on creating an experiential learning journey to develop AI literacy skills. Built a mature automated test suite spanning unit, integration, and end-to-end tests, using AI-assisted test generation with manual review to enforce behavioral contracts and prevent regressions. Applied specification-first and test-driven development practices, treating tests as executable contracts governing system behavior, reliability, and user-facing expectations. Developed and validated a novel AI-first, spec-driven development workflow that accelerates software delivery while preserving control boundaries, correctness, and system integrity. Currently preparing the platform for public launch with a focus on production readiness, security hardening, accessibility, and user experience.
+- Architected and implemented a full-stack web application using MongoDB, Express, React, and Node.js.
+- Designed a modular prompt optimization engine encoding proven communication and reasoning patterns with a focus on creating an experiential learning journey to develop AI literacy skills.
+- Built a mature automated test suite spanning unit, integration, and end-to-end tests, using AI-assisted test generation with manual review to enforce behavioral contracts and prevent regressions.
+- Applied specification-first and test-driven development practices, treating tests as executable contracts governing system behavior, reliability, and user-facing expectations.
+- Developed and validated a novel AI-first, spec-driven development workflow that accelerates software delivery while preserving control boundaries, correctness, and system integrity.
+- Currently preparing the platform for public launch with a focus on production readiness, security hardening, accessibility, and user experience.
 
 ---
 
