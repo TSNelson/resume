@@ -21,7 +21,7 @@ Built and operated internal automation platforms and reliability tooling support
 
 #### Production Operations & Control Systems
 
-- Built automation to enforce operational contracts around backup reliability, improving success rates by \(20\%\) through detection, validation, and automated recovery workflows.
+- Built automation to enforce operational contracts around backup reliability, improving success rates by 20% through detection, validation, and automated recovery workflows.
 - Designed repeatable control processes for cybersecurity audits and system health checks, formalizing operations with automation, internal tooling, and documentation.
 
 **AI Literacy & Prompt Optimization Platform - Founder & Product Engineer**  
