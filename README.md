@@ -1,78 +1,47 @@
 ## Work Experience
 
-**Automation Engineer / Systems Engineer (Internal Tooling & Platform Automation)**  
-Prairie IT Services | 5 / 2019 - Current
+### Founder / Systems & Product Engineer — OnMission Systems
 
-Built and operated internal automation platforms and reliability tooling supporting managed production environments. Developed solutions to reduce manual toil, standardize system behavior, and introduce software-driven control systems for monitoring and remediation.
+**Seattle, WA · 2025 – Present** *(concurrent with Prairie IT Services)*
 
-### Key Accomplishments:
+Designed and built **Copybook**, a production SaaS for designing intentional AI interactions and developing AI literacy through deliberate practice. Also developed the AI software development harness that produced the Copybook application. Work is demonstrable on request.
 
-#### Automation & Internal Tooling
+- **Designed and operated an AI software development harness.** The multi-stage system corrects for AI default behaviors and failure modes to improve reliability. Artifacts pass through review gates at each phase boundary, with generated unit, integration, and end-to-end tests acting as the behavioral contract, and the work stays auditable through decision records and validation reports. Review is calibrated rather than fixed, with demonstrated reliability driving increasing automation over time: full line-by-line review of generated code in the early phases, relaxing as the system proved itself.
+- **Built the product itself to production standard** — TypeScript end to end: React 18 + Vite, Express, Drizzle ORM on Neon serverless Postgres, Zod, Zustand, TanStack Query, Stripe payments, Passport auth (local + Google OAuth), helmet / CSRF / rate-limiting middleware, Winston logging. Carries 1,478 automated test cases across 165 test files (Vitest, Testing Library, Supertest).
+- **Designed a methodology for building AI-collaboration workflows** with the software development workflow as the first fully developed example. Work in progress applies the same principles and design language to the design of workflows in two other domains of knowledge work. Lessons learned in one instantiation are portable to other workflows.
 
-- Architected and maintained an internal PowerShell automation library of reusable components, standardizing operations and reducing manual intervention.
-- Designed composable function frameworks for Exchange Online and Microsoft 365 administration, replacing point-and-click workflows with version-controlled automation.
-- Built automated ticket-generation and workflow orchestration systems integrating monitoring data with service management pipelines, improving operational throughput and predictability.
+### IT Consultant & Automation Engineer — Prairie IT Services (independent contractor)
 
-#### Reliability, Monitoring & Self-Healing Systems
+**Seattle, WA · May 2019 – Present**
 
-- Designed automated monitoring and remediation pipelines to detect system instability and trigger corrective workflows, reducing unplanned downtime and frontline support escalations.
-- Implemented self-healing automation for system file corruption detection and repair, improving system stability and decreasing recurring incident volume.
-- Developed failure-detection pipelines attaching structured diagnostic data to incident tickets, accelerating root-cause analysis and resolution.
+Two-person managed-services practice supporting roughly ten small-business clients and several hundred endpoints. Carried daily operations and end-user support, and owned the monitoring, automation, and scripting lane outright — self-initiated, from scripts through monitoring to closed-loop remediation. Every system below is still in production.
 
-#### Production Operations & Control Systems
-
-- Built automation to enforce operational contracts around backup reliability, improving success rates by 20% through detection, validation, and automated recovery workflows.
-- Designed repeatable control processes for cybersecurity audits and system health checks, formalizing operations with automation, internal tooling, and documentation.
-
-**AI Literacy & Prompt Optimization Platform - Founder & Product Engineer**  
-2025- Present
-
-Designed and built an AI literacy and prompt optimization platform that helps users systematically improve the quality, reliability, and usefulness of AI outputs using composable optimization strategies.
-
-- Architected and implemented a full-stack web application using MongoDB, Express, React, and Node.js.
-- Designed a modular prompt optimization engine encoding proven communication and reasoning patterns with a focus on creating an experiential learning journey to develop AI literacy skills.
-- Built a mature automated test suite spanning unit, integration, and end-to-end tests, using AI-assisted test generation with manual review to enforce behavioral contracts and prevent regressions.
-- Applied specification-first and test-driven development practices, treating tests as executable contracts governing system behavior, reliability, and user-facing expectations.
-- Developed and validated a novel AI-first, spec-driven development workflow that accelerates software delivery while preserving control boundaries, correctness, and system integrity.
-- Currently preparing the platform for public launch with a focus on production readiness, security hardening, accessibility, and user experience.
+- **Built the detection layer.** Monitoring that opens tickets on early-warning conditions with the relevant diagnostic logs already attached, so work begins with the evidence in hand rather than a user's description of the symptom. Shifted the queue from user-reported breakage toward detected conditions.
+- **Built closed-loop remediation.** Automated detection and repair of system file corruption — a recurring incident class resolved without a technician touching the machine.
+- **Built backup reliability automation** — failure detection, restore validation, and automated recovery workflows, replacing after-the-fact discovery of failed backups.
+- **Replaced manual administration with version-controlled operations.** A composable PowerShell function library for Microsoft 365 and Exchange Online administration, standardized across every client tenant — repeatable and reviewable instead of point-and-click.
+- **Integrated monitoring and scheduled work with the ticketing system**, generating work orders automatically rather than by hand.
+- **Established a recurring security review process** across the client base, including the procedure, its execution, and the supporting documentation.
+- **Ran the operational surface underneath all of it** — Windows desktop and server administration, endpoint support and triage, RMM administration, patching, identity and license lifecycle, and the ticket queue. No tier to escalate to: diagnosis and resolution are one person's job.
 
 ---
 
 ## Skills
 
-#### Programming:
+**Automation & scripting** — PowerShell (primary), Python, Bash; composable function library design, version-controlled operational tooling, scheduled and event-triggered automation
 
-- Languages: JavaScript, Python, PowerShell
-- Frameworks & Stacks: Node.js, Express, React, MongoDB (MERN)
-- Automation & Scripting: PowerShell, Python, Bash
-- Testing & Quality: Automated Testing, AI-Assisted Test Generation, Systematic Program Design
+**Reliability & monitoring** — alerting and detection design, diagnostic capture, closed-loop remediation, backup verification and recovery, failure-mode analysis
 
-#### Production Systems & Automation:
+**AI systems engineering** — development harness design, specification-driven implementation, review-gate architecture, generated test suites as behavioral contracts, prompt and instruction-set design, agent workflow design
 
-- Self-Healing Systems & Remediation Pipelines
-- Internal Tooling & Platform Automation
-- Monitoring & Observability
-- CI/CD principles and test-driven release workflows
-- Reliability Engineering Foundations
+**Software engineering** — TypeScript, React, Node/Express, PostgreSQL, REST APIs, automated testing (Vitest, Testing Library, Supertest), Git, spec-first and test-driven development
 
-#### Data Analysis & Problem Solving:
-
-- Analytical problem-solver with a strong background in mathematics, data analysis, and statistical modeling. Proven track record of identifying issues and finding creative solutions to improve operational efficiency and reliability.
-- Experience devising and conducting scientific experiments as part of a research and development program.
-- Familiar with design thinking and user experience design methodologies to inform business and product development.
-
-#### Soft Skills:
-
-- Exceptional communication skills. Able to explain complex technical information to non-technical audiences.
-- Continuous learner and skilled practitioner of strengths-based coaching and knowledge management.
+**Infrastructure & operations** — Windows desktop and server administration, Microsoft 365 and Exchange Online, identity and license lifecycle, endpoint management and remediation, RMM (N-able N-central), ticketing workflow design, runbook and procedure documentation, security review
 
 ---
 
 ## Education
 
-**Bachelor of Science**  
-The Evergreen State College
+**B.S., The Evergreen State College** — Molecular Biology and Biochemistry
 
-## Professional Development
-
-Completed individual courses in Computer Science, Data Science, Mathematics, Design, Business, and Psychology through Coursera, Ed-X, Udemy, Pluralsight, and other sources.
+Continuing self-directed coursework in computer science, data science, mathematics, and design, 2012–present.
