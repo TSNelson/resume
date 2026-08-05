@@ -1,3 +1,9 @@
+## Summary
+
+**Automation and systems engineer.** Seven years building production automation and monitoring for a managed-services practice, implementing failure detection, self-healing remediation, and automated operations replacing manual administration across every client environment. For the last two years, the same reliability engineering discipline has guided the development of AI agent harnesses and the design of Human-AI collaboration systems, including a software development harness. The specification-first, review-gated system, with generated tests enforcing the behavioral contract, produced a production SaaS, now in final pre-launch. The through-line is: instrument the system, identify the failure modes, and build the machinery that increases reliability.
+
+---
+
 ## Work Experience
 
 ### Founder / Systems & Product Engineer — OnMission Systems
