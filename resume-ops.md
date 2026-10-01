@@ -31,6 +31,7 @@ Both media carry the same words. Formatting differs by medium:
 
 - **Preview loop:** push any branch other than `master`. CI builds, runs `check` (problems only warn), and uploads the `resume-preview` artifact with the PDF and the site source. Download it from the run page, or with `gh run download <run-id> -n resume-preview -D dist`. Nothing is published.
 - **Publish loop:** merge to `master`. CI builds, runs `check --strict` (any problem fails the run), builds the Jekyll site, and deploys it to `https://tsnelson.github.io/resume/`.
+- The build job is pinned to `ubuntu-24.04`, because the OS's Pango sets line breaks. Before moving it to a newer image, push a branch and compare the preview PDF with the last published one.
 - The workflow runs only when `resume.md`, `build.py`, `requirements.txt`, `site/`, `fonts/`, or the workflow file changes. Use "Run workflow" to force a run.
 
 ### Guards (`build.py check`)
