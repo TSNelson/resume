@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>{{ page.title }}</title>
+    <meta name="author" content="{{ page.name }}" />
+    <link
+      rel="stylesheet"
+      href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}"
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        {% comment %} Header data comes from the front matter of index.md, which
+        the build copies verbatim from resume.md, the same source the PDF build reads. {% endcomment %}
+        <h1>{{ page.name }}</h1>
+        <p>
+          {{ page.location }}<br />
+          {{ page.phone }}<br />
+          <a href="mailto:{{ page.email }}?subject=RE:%20Resume"
+            >{{ page.email }}</a
+          ><br />
+          {% for link in page.links %}<a href="{{ link.url }}"
+            >{{ link.text }}</a
+          >{% unless forloop.last %}<br />{% endunless %}{% endfor %}
+        </p>
+        <p><b>Working stack:</b> {{ page.stack }}</p>
+        <p><a href="{{ page.pdf | relative_url }}" download="Tor Nelson - Resume.pdf">Download PDF</a></p>
+      </header>
+      <section>
+        {{ content }}
+
+        <hr />
+        <p><small>Hosted on GitHub Pages</small></p>
+      </section>
+    </div>
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+  </body>
+</html>
